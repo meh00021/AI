@@ -58,9 +58,9 @@ It was founded in an article that around the year of 2010, architectural studios
 
 Architecture is the subject above all that’s always used with the existence of AI. Two realms of architectural design exist, first contains properties and performances that concern the material use, while the second does a job of delivering poiesis, poetry methods, enhancement of mood, emotion of excitement, or experience. A disadvantage or downside to this is that human concerns aren’t met, as the interface between the two realms lack a connection and relationship[ between architecture. It truly is the architecture design, and not the construction collusion that determines the finalization of the material type and quantitative parameters of the building (*Michal, 2024*). The spatial structure of a building increases the efficiency of movement occurrences in the buildings, which are done by technology used in AI generative settings. AI in architecture is often viewed as a performance of a machine that is conditioned by training, which is nothing more than the imitation of templates. Although software applications like **Creo, Giraffe, Spacemaker, MVRDV, Cove.tool, and etc.**
 
-*| Advantages of AI | Name |*
-*|-----------------:|Brains|*
-*|1                 |Predict|*
-*|2                 |Quick  |*
-*|3                 |Guiding|*
+| Advantages of AI | Name  |
+|-----------------:|Brains |
+|1                 |Predict|
+|2                 |Quick  |
+|3                 |Guiding|
 
