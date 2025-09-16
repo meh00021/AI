@@ -64,3 +64,9 @@ Architecture is the subject above all that’s always used with the existence of
 |!----------------|Quick---!|
 |!----------------|Guiding-!|
 
+| Number | Name | 
+|-------:|------|
+|1       | One  |
+|2       | Two  |
+|3       | Three|
+
