@@ -42,8 +42,10 @@ AI models allow architects to successfully tackle large-scale projects by being 
 
 There is a significance of mathematical modeling during the process of the framework called Internet of Everything. They are closely connected to the involvement of AI by having a list of these things ~
 
-**precision prediction**
-, data analysis, and creative systematic design opportunities, which are done by working with complex algorithms and equations. It is done in real-time through machine processes, statistical analysis, and optimization-focused styles
+* precision prediction
+* data analysis
+* creative systematic design opportunities
+* Complex algorithms and equations - It is done in real-time through machine processes, statistical analysis, and optimization-focused styles.
 
 Challenges are able to be solved and prevented through the association of the signaling processing, making IoE dependable, interactive, and reliable. Mathematical modeling is an ongoing convergence that is predicted to result in advancements that are fully sustainable in diverse fields, while caring for rapid innovation and positively affecting living standards worldwide. Algorithms like Kalman filtering and Recursive Least Squares were implemented, proving an approved and worthy performance. It was seen to be faced with real-world scenarios, unpredictability, quantity, and noise (Digvijay, 2025). An advantage of this is that these signal estimates can be continually changed and readjusted.
 
