@@ -12,7 +12,7 @@ How can the popularity of AI be beneficial to architectural schools, programs, a
 
 Before I further introduce you to AI and its complexities, an image will be attached at the middle of this writing down below these letters... 
 
-![A white pure robotic figure staring right into the camera, with its intellectual mind knowing it's being photographed, probably without its permission]**(https://github.com/user-attachments/assets/b62173a4-fdfd-4103-8b3b-dfd1f23506c9)**
+![A white pure robotic figure staring right into the camera, with its intellectual mind knowing it's being photographed, probably without its permission]!(https://github.com/user-attachments/assets/b62173a4-fdfd-4103-8b3b-dfd1f23506c9)
 
 
 
